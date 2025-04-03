@@ -34,7 +34,7 @@ This project is divided into two main components:
 The project is organized as follows:
 
 ```
-DisasterPredictFullStack/
+DisasterPredict-Flask-React/
 ├── backend/
 │   ├── app.py                   # Flask application entry point
 │   ├── requirements.txt         # Python dependencies for Flask
@@ -62,7 +62,7 @@ DisasterPredictFullStack/
 1. **Navigate to the backend folder:**
 
    ```bash
-   cd DisasterPredictFullStack/backend
+   cd DisasterPredict-Flask-React/backend
    ```
 
 2. **Create and activate a Python virtual environment:**
@@ -92,7 +92,7 @@ DisasterPredictFullStack/
 1. **Navigate to the frontend folder:**
 
    ```bash
-   cd DisasterPredictFullStack/frontend
+   cd DisasterPredict-Flask-React/frontend
    ```
 
 2. **Install the Node.js dependencies:**
@@ -122,7 +122,7 @@ DisasterPredictFullStack/
 1. **Open a new terminal and navigate to the `frontend` folder:**
 
    ```bash
-   cd DisasterPredictFullStack/frontend
+   cd DisasterPredict-Flask-React/frontend
    ```
 
 2. **Start the React development server:**
@@ -194,10 +194,5 @@ Contributions are welcome! Follow these steps to contribute:
 4. Push to your fork and submit a pull request.
 
 ## License
-
-Distributed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
----
 
 This README file provides an in-depth explanation of the project’s structure, installation steps, usage instructions, and contribution guidelines. Customize it further if needed to better suit your project details.
